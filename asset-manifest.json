@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AlexanderHargrave/FamilyTrees/static/css/main.faa77237.css",
-    "main.js": "/AlexanderHargrave/FamilyTrees/static/js/main.e75f1dbd.js",
-    "static/js/453.a0a4dc30.chunk.js": "/AlexanderHargrave/FamilyTrees/static/js/453.a0a4dc30.chunk.js",
-    "index.html": "/AlexanderHargrave/FamilyTrees/index.html",
-    "main.faa77237.css.map": "/AlexanderHargrave/FamilyTrees/static/css/main.faa77237.css.map",
-    "main.e75f1dbd.js.map": "/AlexanderHargrave/FamilyTrees/static/js/main.e75f1dbd.js.map",
-    "453.a0a4dc30.chunk.js.map": "/AlexanderHargrave/FamilyTrees/static/js/453.a0a4dc30.chunk.js.map"
+    "main.css": "/FamilyTrees/static/css/main.faa77237.css",
+    "main.js": "/FamilyTrees/static/js/main.16c0346e.js",
+    "static/js/453.a0a4dc30.chunk.js": "/FamilyTrees/static/js/453.a0a4dc30.chunk.js",
+    "index.html": "/FamilyTrees/index.html",
+    "main.faa77237.css.map": "/FamilyTrees/static/css/main.faa77237.css.map",
+    "main.16c0346e.js.map": "/FamilyTrees/static/js/main.16c0346e.js.map",
+    "453.a0a4dc30.chunk.js.map": "/FamilyTrees/static/js/453.a0a4dc30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.faa77237.css",
-    "static/js/main.e75f1dbd.js"
+    "static/js/main.16c0346e.js"
   ]
 }
